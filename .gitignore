@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# passwords stored in Env files
+.env 
+.env copy
+
