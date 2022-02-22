@@ -1,2 +1,2 @@
 # OS_METRICS
-Building a Faster, Stronger, More Complete System for our bones. 
+Building a Faster, Stronger, More Complete Metrics System for OS
